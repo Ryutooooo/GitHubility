@@ -15,9 +15,11 @@
       "matches":[
         "https://github.com/*"
       ],
+      "run_at": "document_end",
       "js":[
         "jquery-3.6.0.min.js",
-        "width.js"
+        "width.js",
+        "absolute-time.js"
       ]
     }
   ]
