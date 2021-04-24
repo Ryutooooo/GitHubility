@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "githubility",
+  "description": "This extension will improve usability on github",
+  "version": "0.1",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "index.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
